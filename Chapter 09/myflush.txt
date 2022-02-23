@@ -1,0 +1,2 @@
+Hello beginner!I hope you are enjoying python file handling
+I hope yes

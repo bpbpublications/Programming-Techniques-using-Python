@@ -1,0 +1,10 @@
+from zipfile import *
+myfile1=ZipFile("E:\\python_progs\\zip\\myfiles.zip",'w',ZIP_DEFLATED)
+myfile1.write("abcd.txt")
+myfile1.write("mydemofile2.txt")
+myfile1.write("myflush.txt")
+myfile1.write("readinput.txt")
+myfile1.write("truncate.txt")
+myfile1.write("writeinput.txt")
+myfile1.close()
+print("myfiles.zip file is created successfully")

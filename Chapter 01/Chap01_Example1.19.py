@@ -1,0 +1,1 @@
+print('Hello','I am printing space without concatenation operator')

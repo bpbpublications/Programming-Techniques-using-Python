@@ -1,0 +1,5 @@
+print("The following are the safety measures we should take against the new COVID-19 virus: ")
+print("We all should wash our hands frequently")
+print("We all should maintain social distancing")
+print("We all should avoid touching nose, eyes and mouth")
+print("Seek medical care urgently if you have fever, cough and difficulty in breathing")

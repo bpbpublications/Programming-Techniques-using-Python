@@ -1,0 +1,1 @@
+print(int(x//y))

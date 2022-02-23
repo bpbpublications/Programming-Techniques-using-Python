@@ -1,0 +1,12 @@
+from time import *
+mystruct_time = localtime()
+print(type(mystruct_time))
+print(mystruct_time)
+print("Year is: ",mystruct_time.tm_year)
+print("Month is: ",mystruct_time.tm_mon)
+print("Date is: ",mystruct_time.tm_mday)
+print("Hour is: ",mystruct_time.tm_hour)
+print("Min is: ",mystruct_time.tm_min)
+print("Second is: ",mystruct_time.tm_sec)
+print(mystruct_time.tm_wday)
+print(mystruct_time.tm_yday)
